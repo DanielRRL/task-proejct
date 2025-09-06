@@ -70,7 +70,3 @@ Una vez que el servidor esté corriendo, puedes acceder a la documentación Swag
   "message": "Hello from project-task"
 }
 ```
-
-## Preparado para MongoDB
-
-El proyecto está preparado para integrar MongoDB cuando sea necesario. Las dependencias y configuraciones adicionales se pueden agregar según los requisitos específicos.
